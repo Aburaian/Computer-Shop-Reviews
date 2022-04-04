@@ -11,7 +11,7 @@ const Header = () => {
           Computer Shop
         </Link>
       </div>
-      <div className="nav-link">
+      <div className="nav-menu">
         <CustomLink className="link" to="/home">
           HOME
         </CustomLink>

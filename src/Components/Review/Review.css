@@ -1,0 +1,14 @@
+.img-area img {
+    width: 280px;
+    margin: 10px auto;
+}
+
+.review-area{
+    border: 1px solid #d3d3d3;
+    height: 610px;
+    margin: 20px 0;
+    width: 400px;
+}
+.comment-area{
+    margin: 0, 10px;
+}
