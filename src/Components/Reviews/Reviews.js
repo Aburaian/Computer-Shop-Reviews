@@ -4,7 +4,7 @@ import Review from "../Review/Review";
 import "./Reviews.css";
 
 const Reviews = () => {
-  const [reviews, setReviews] = useProducts();
+  const [reviews] = useProducts();
   return (
     <div>
       <h1 className="text-5xl text-center my-5">What Our Clients Say...</h1>

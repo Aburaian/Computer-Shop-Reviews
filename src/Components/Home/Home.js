@@ -15,10 +15,10 @@ const Home = () => {
   return (
     <div>
       <div className="home-container">
-        <div className="product-container">
-          <h1>your next computer</h1>
-          <h2 className="sub-title">your best computer</h2>
-          <p>
+        <div className="product-container p-2">
+          <h1 className="text-6xl font-bold">your next computer</h1>
+          <h2 className="sub-title text-6xl font-bold">your best computer</h2>
+          <p className="text-xl text-justify mt-5">
             A computer is an electronic device that manipulates information, or
             data. It has the ability to store, retrieve, and process data. You
             may already know that you can use a computer to type documents, send
