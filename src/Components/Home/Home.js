@@ -14,6 +14,7 @@ const Home = () => {
 
   return (
     <div>
+      <h1 className="text-5xl text-center font-bold my-16">Computer Shop</h1>
       <div className="home-container">
         <div className="product-container p-2">
           <h1 className="text-6xl font-bold">your next computer</h1>
